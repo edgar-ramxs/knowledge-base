@@ -1,0 +1,12 @@
+pandas
+numpy
+networkx
+matplotlib
+spacy
+textacy
+torch
+transformers
+pyvis
+GoogleNews
+newspaper3k
+wikipedia
