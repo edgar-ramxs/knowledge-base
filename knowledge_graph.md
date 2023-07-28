@@ -1,12 +1,10 @@
-[Enlace](https://alfarruggia.medium.com/explore-grocery-transactions-using-a-knowledge-graph-db04bf013dde)
-# Explore las transacciones de comestibles usando un grafico de conocimiento
-# By Alfonso Farruggia
+# Explore Grocery Transactions using a Knowledge Graph 
+*Titutlo: Explore las transacciones de comestibles usando un grafico de conocimiento.*
 
+ "Cómo crear un gráfico de conocimiento a partir del conocido Groceries Dataset y explorarlo para obtener información. El código está en el lenguaje de programación python y explota las bibliotecas pandas y netwkorx". 
+ [Enlace](https://alfarruggia.medium.com/explore-grocery-transactions-using-a-knowledge-graph-db04bf013dde)
 
-## Resumen del aritucolo
-_Cómo crear un gráfico de conocimiento a partir del conocido Groceries Dataset y explorarlo para obtener información. El código está en el lenguaje de programación python y explota las bibliotecas pandas y netwkorx._
-
-Este articulo describe una investigacion de como se puede recolectar informacion relacionada representada en un multigrafo con el dataset "Groceries Dataset", [Dataset](kaggle.com)
+Este articulo describe una investigacion de como se puede recolectar informacion relacionada representada en un multigrafo con el datase [Groceries Dataset](https://www.kaggle.com/datasets/heeraldedhia/groceries-dataset)
 
 El dataset contiente datos basados en las ventas de un almacen donde se registra: el miembro que hizo la compra, la fecha que se relizo la compra y, el producto que se compro. 
 
@@ -31,6 +29,18 @@ Con esto, este ejercicio quiere recuperar informacion con respecto a la venta de
 Con esto se puede realizar un analisis y crear una promocion para vender el producto menos vendido con otros. 
 
 
+
+
+# How to generate a Knowledge Graph from plain text in few steps
+*Titulo: Cómo generar un gráfico de conocimiento a partir de texto sin formato en pocos pasos.*
+
+"Una guía de copiar y pegar para generar un gráfico de conocimiento con bibliotecas de python spacy, textacy y netwkorx. El siguiente ejemplo procesa solo una oración como texto sin formato. puede reemplazarlo con el texto que desee". [Enlace](https://alfarruggia.medium.com/how-to-generate-a-knowledge-graph-from-plain-text-in-few-steps-42f3a639155f)
+
+
+# Building a Knowledge Base from Texts: a Full Practical Example
+*Titulo: Construcción de una base de conocimientos a partir de textos: un ejemplo práctico completo*
+
+¡Hola, compañeros entusiastas de la PNL! En este artículo, vemos cómo implementar una canalización para extraer una base de conocimiento de textos o artículos en línea. Hablaremos sobre el reconocimiento de entidades con nombre, la extracción de relaciones, la vinculación de entidades y otros pasos comunes que se realizan al crear gráficos de conocimiento. Puede probar la demostración final en este Hugging Face Space y verificar el código en Colab.
 
 
 
