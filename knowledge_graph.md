@@ -37,6 +37,9 @@ Con esto se puede realizar un analisis y crear una promocion para vender el prod
 "Una guía de copiar y pegar para generar un gráfico de conocimiento con bibliotecas de python spacy, textacy y netwkorx. El siguiente ejemplo procesa solo una oración como texto sin formato. puede reemplazarlo con el texto que desee". [Enlace](https://alfarruggia.medium.com/how-to-generate-a-knowledge-graph-from-plain-text-in-few-steps-42f3a639155f)
 
 
+
+
+
 # Building a Knowledge Base from Texts: a Full Practical Example
 *Titulo: Construcción de una base de conocimientos a partir de textos: un ejemplo práctico completo*
 

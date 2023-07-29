@@ -8,7 +8,8 @@ import networkx as nx
 # Load spacy model
 nlp = spacy.load('en_core_web_sm')
 # Plain text
-text = "I am going to extract SVO"
+#text = "I am going to extract SVO"
+text = "I am going to do my computer homework"
 # Process plain text with spacy
 doc = nlp(text)
 

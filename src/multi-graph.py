@@ -43,16 +43,16 @@ G.add_nodes_from(node_receipts)
 G.add_edges_from(relations)
 
 
-# # Plot the graph
-# plt.rcParams["figure.figsize"] = [10, 10]
-# plt.rcParams["figure.autolayout"] = True
+# Plot the graph
+plt.rcParams["figure.figsize"] = [10, 10]
+plt.rcParams["figure.autolayout"] = True
 
-# pos = nx.circular_layout(G)
+pos = nx.circular_layout(G)
 
-# nx.draw_networkx(G, pos=pos, nodelist=[x[0] for x in node_items] ,node_color='g', node_size=2000)
-# nx.draw_networkx(G, pos=pos, nodelist=[x[0] for x in node_members] ,node_color='y', node_size=2000)
-# nx.draw_networkx(G, pos=pos, nodelist=[x[0] for x in node_receipts], node_color='r', node_size=2000)
-# plt.show()
+nx.draw_networkx(G, pos=pos, nodelist=[x[0] for x in node_items] ,node_color='g', node_size=2000)
+nx.draw_networkx(G, pos=pos, nodelist=[x[0] for x in node_members] ,node_color='y', node_size=2000)
+nx.draw_networkx(G, pos=pos, nodelist=[x[0] for x in node_receipts], node_color='r', node_size=2000)
+plt.show()
 
 
 # compute the degree_centrality measure
