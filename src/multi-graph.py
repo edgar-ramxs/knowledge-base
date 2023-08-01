@@ -9,7 +9,6 @@ groceries['Receipt_id'] = [f"{d}_{i}" for d,i in zip(groceries['Date'], grocerie
 receipts = groceries.sort_values(by=['Date']).groupby(by=['Receipt_id'])
 r_id = list(receipts.groups.keys())[0]
 print(receipts.get_group(r_id))
-
 # list product nodes
 items_unique = groceries['itemDescription'].unique()
 node_items = [(x, {'type':'item'}) for x in items_unique]

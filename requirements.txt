@@ -11,3 +11,13 @@ GoogleNews
 newspaper3k
 wikipedia
 streamlit
+openai
+pypdf
+scikit-learn
+tiktoken
+docx2txt
+langchain
+pydantic
+typing
+faiss-cpu
+streamlit_chat
