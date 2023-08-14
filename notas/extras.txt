@@ -1,0 +1,71 @@
+ 
+
+El corazón del gráfico de conocimiento es un modelo de conocimiento: una colección de descripciones interrelacionadas de conceptos, entidades, relaciones y eventos. Los gráficos de conocimiento ponen los datos en contexto a través de enlaces y metadatos semánticos y, de esta manera, proporcionan un marco para la integración, la unificación, el análisis y el intercambio de datos. 
+
+ 
+
+Una base de conocimiento es una colección publicada de documentación que incluye Está diseñado para facilitar que las personas encuentren soluciones a sus problemas sin tener que pedir ayuda.  
+
+ 
+
+ es una biblioteca en línea de autoservicio que contiene información sobre un producto, servicio, departamento o tema. 
+
+Los datos contenidos en la base de conocimiento pueden ser de cualquier parte, pero generalmente provienen de varios colaboradores, bien versados ​​en temas específicos, que van manteniéndola y actualizándola. Lo suficiente como para brindarle todos los detalles que sean necesarios a efectos de uso (técnico, comercial, etc.). 
+
+¿Por qué necesitas una KB? 
+
+En el mundo conectado de hoy, más allá de disponer de la «información al alcance de la mano», los Clientes y Usuarios necesitan contar con soluciones inmediatas y tangibles a sus problemas, necesidades o requerimientos. Más allá de la referencia habitual de «buscar en Internet» o dirigirlo a una documentación extensa e imprecisa, el nuevo paradigma de Atención al Cliente está en brindar información práctica, exacta y soluciones definitivas. Es por eso por lo que toda empresa moderna necesita una base de conocimientos potente y dinámica. 
+
+Algunos ejemplos de uso (por área): 
+
+IT: Simplifica todo, desde la resolución de problemas hasta la capacitación / incorporación y preguntas generales y de soporte. 
+
+HHRR: Nuevamente, excelente para todo, desde capacitación / integración hasta la distribución de políticas de la empresa y programas de pago 
+
+Legal: Ayuda con el contrato y otros procesos de aprobación, políticas, marcas registradas y registros. 
+
+ 
+
+“En todo caso, todo lo contrario: tomar medidas para mejorar la experiencia del usuario en su base de conocimientos puede generar dividendos en forma de una navegación mejorada, información más fácil de encontrar y menos clientes que envían correos electrónicos o llaman para obtener ayuda práctica.” 
+
+Una base de conocimiento es un tipo especial de base de datos para la gestión del conocimiento. Provee los medios para la recolección, organización y recuperación computarizada de conocimiento. 
+
+La gestión del conocimiento (del inglés knowledge management) es un concepto aplicado en las organizaciones. Tiene el fin de transferir el conocimiento desde el lugar donde se genera hasta el lugar en donde se va a emplear (Fuentes, 2010),1​ e implica el desarrollo de las competencias necesarias al interior de las organizaciones para compartirlo y utilizarlo entre sus miembros, así como para valorarlo y asimilarlo si se encuentra en el exterior de éstas. La gestión del conocimiento es diferente a la gestión de la información, aunque tengan cierta relación. En el ámbito organizacional la gestión del conocimiento se enfoca en que cada uno en la organización sepa lo que el otro conoce con el objetivo de mejorar los rendimientos de las organizaciones. 
+
+El aspecto más importante de una base de conocimiento es la calidad de la información que ésta contiene. Las Mejores Bases de Conocimiento tienen artículos cuidadosamente redactados que se mantiene al día, un excelente sistema de recuperación de información (Motor de Búsqueda), y un delicado formato de contenido y estructura de clasificación. Una Base de Conocimiento puede usar una ontología para especificar su estructura (tipos de entidades y relaciones) y su esquema de clasificación. Una ontología, junto con un grupo de instancias de sus clases constituyen una Base de Conocimiento. 
+
+BC legibles por máquinas 
+
+BC legibles por humanos 
+
+una ontología es una definición formal de tipos, propiedades, y relaciones entre entidades que real o fundamentalmente existen para un dominio de discurso en particular. Es una aplicación práctica de la ontología filosófica, con una taxonomía. Una ontología cataloga las variables requeridas para algún conjunto de computación y establece las relaciones entre ellos.1​2​En los campos de la inteligencia artificial, la Web Semántica, ingeniería de sistemas, ingeniería de software, informática biomédica, bibliotecología y arquitectura de la información se crean ontologías para limitar la complejidad y para organizar la información. La ontología puede entonces ser aplicada para resolver problemas. 
+
+ 
+
+En general, una base de conocimiento  
+
+ 
+
+Una biblioteca pública, una base de datos de información relacionada sobre un tema en particular y whatis.com podrían considerarse ejemplos de bases de conocimiento. 
+
+En relación con TI, una base de conocimiento es un recurso legible por máquina para la difusión de información, generalmente en línea o con la capacidad de ser puesto en línea. Las bases de conocimiento son un componente integral de los sistemas de gestión del conocimiento. Se utilizan para optimizar la recopilación de información y la organización y recuperación de la información. 
+
+Una base de conocimiento digital no es una colección estática de información sino un recurso dinámico. Ellos mismos pueden tener la capacidad de aprender, como parte de un sistema experto de automatización o inteligencia artificial. 
+
+ 
+
+Los siguientes son algunos ejemplos de temas que la base de conocimientos de una empresa de viajes compartidos podría incluir: 
+
+ 
+
+información perdida y encontrada para pasajeros; 
+
+cómo se calcula el salario de un conductor; 
+
+cómo reportar un accidente o citación; 
+
+política de animales de servicio; y 
+
+cómo aplicar para ser un conductor. 
+
+Motor de búsqueda robusto 
