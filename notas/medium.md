@@ -52,3 +52,69 @@ Toolformer:
 
 [OntoGPT](https://github.com/monarch-initiative/ontogpt)
 
+
+
+# Following the Trail: Tracing the Origins of Factual Knowledge in Language Models
+[Articulo](https://medium.com/@muhammad.shahzaib_20513/following-the-trail-tracing-the-origins-of-factual-knowledge-in-language-models-b5001d0abdc8)
+
+> su capacidad para memorizar y regurgitar grandes cantidades de conocimiento fáctico a partir de datos de entrenamiento es un arma de doble filo, ya que puede dar lugar a la generación de afirmaciones falsas. Por lo tanto, existe una necesidad urgente de comprender cómo los LM adquieren y almacenan el conocimiento para mejorar su precisión y cobertura.
+
+Rastreo de Hechos
+> El rastreo de hechos es un nuevo método de evaluación para modelos de lenguaje que mide su capacidad para identificar y rastrear la información relevante en un texto dado. Este enfoque está inspirado en las técnicas de recuperación de información (IR) que utilizan la superposición de palabras para determinar la similitud entre los textos. De hecho, la idea es identificar los hechos en un texto dado y evaluar la capacidad de un modelo de lenguaje para identificar y rastrear esos hechos hasta su fuente.
+
+# Corporate Wiki vs. Knowledge Base: Which Option is Better?
+[Articulo](https://medium.com/@Nimbus_Platform/corporate-wiki-vs-knowledge-base-which-should-you-choose-7bc4ed7a8cef)
+
+> una base de conocimiento es una opción mucho mejor para almacenar información. Una base de conocimientos es una forma eficaz de almacenar información porque permite a los usuarios buscar temas específicos y encontrar respuestas rápidamente.
+
+**Ventajas y desbentajas de usar una base de conocimientos**
+
+> Las bases de conocimiento son esencialmente bases de datos que contienen artículos escritos por expertos. Estos artículos están organizados en categorías y temas, lo que facilita a los visitantes navegar y encontrar respuestas a preguntas comunes.
+
+
+# Can ChatGPT beat Knowledge Bases in Question Answering?
+
+**KBQA >>> chatGPT**
+
+[Articulo](https://medium.com/deeppavlov/can-chatgpt-beat-knowledge-bases-in-question-answering-3817ffa288f1)
+
+[Colab-KBQA](https://colab.research.google.com/drive/1lO6bRv5gfTWiOpVbSOPy3Of-EwsWcEjM?usp=sharing)
+
+[Knowledge Base Question Answering (KBQA)](https://docs.deeppavlov.ai/en/master/features/models/kbqa.html)
+
+> Se demostró que ChatGPT todavía va a la zaga de los modelos tradicionales en la tarea de respuesta de preguntas, principalmente debido a la incapacidad de responder hechos no comunes o problemas de alucinaciones. 
+
+
+# Creating a Knowledge Base for Call Centers
+ 
+[Articulo](https://medium.com/@Nimbus_Platform/knowledge-base-for-a-call-center-what-is-it-and-how-to-use-ca7227e66631)
+
+El uso de una base de conocimientos en los centros de llamadas
+
+*Ejemplo de uso*
+
+
+
+# Understanding Knowledge Graphs
+
+Explicacion de como funcionan los grafos de conocimiento brevemente
+
+[Articulo](https://edezhic.medium.com/understanding-knowledge-graphs-5cb05593eb84)
+
+
+
+# Knowledge-Based Recommenders
+
+Sistemas de recomendaciones **Formula**
+[Articulo](https://medium.com/@paul0/knowledge-based-rs-b4547b84108a)
+
+Código
+[Recommendation Systems - Knowledged-based Recommender](https://michael-fuchs-python.netlify.app/2020/10/01/recommendation-systems-knowledged-based-recommender/#build-the-knowledged-based-recommender)
+
+
+# Why Use a Self-Service Knowledge Base for Your Business
+[Articulo](https://medium.com/@Nimbus_Platform/5-features-your-self-service-knowledge-base-should-have-f09f5db57955)
+
+
+# Deploying MediaWiki + MySQL Using Docker
+[Articulo Docker Compose](https://medium.com/@1993Tikku/deploying-mediawiki-mysql-using-docker-32a0626550f7)

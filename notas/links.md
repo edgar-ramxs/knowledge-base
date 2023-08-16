@@ -66,6 +66,7 @@ https://www.youtube.com/watch?v=YuWlJYM9aHA&t=2648s
 
 # GitHub
 https://github.com/TirendazAcademy/ChatGPT-with-Examples/tree/main
+https://github.com/neo4j-partners/neo4j-generative-ai-google-cloud
 
 
 
